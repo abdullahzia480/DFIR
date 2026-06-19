@@ -1,4 +1,4 @@
-# 🔎 Digital Forensics & Incident Response (DFIR) 
+# Digital Forensics & Incident Response (DFIR) 
 
 ![Field](https://img.shields.io/badge/Field-Cybersecurity-blue.svg)
 ![Domains](https://img.shields.io/badge/Domains-DFIR%20%7C%20Malware%20Analysis%20%7C%20IR-darkred.svg)
